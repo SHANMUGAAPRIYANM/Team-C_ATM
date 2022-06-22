@@ -22,7 +22,7 @@ Folder                   | Description
 ## Contributors List and Summary
 PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
- |  | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  | 0 | 0    
+ |                     | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  | 0 | 0    
   
 ## Challenges Faced and How Was It Overcome
 | No. | Challenge | Solution
